@@ -1,0 +1,17 @@
+:host {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+mat-form-field {
+  display: block;
+  width: 20em;
+  margin: 0 auto;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

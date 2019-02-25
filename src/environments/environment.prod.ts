@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  moviesUrl: 'https://github.com/justynabierylo/warsawjs-workshop-29-docs/assets/docs.json'
+  moviesUrl: 'https://justynabierylo.github.io/warsawjs-workshop-29-movies/assets/docs'
 };
